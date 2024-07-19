@@ -1,8 +1,3 @@
---Dang-Uy Nguyen
---Professor Ostrow
---IS 410
---May 15, 2023
-
 --Creation of Tables
 
 CREATE TABLE Customer_T 
